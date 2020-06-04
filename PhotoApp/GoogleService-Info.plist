@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>422231037721-7hntab1fnf844dcfnntvlqh9rr5k3huf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.422231037721-7hntab1fnf844dcfnntvlqh9rr5k3huf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAkdMu5zUCddHQtHFYJtQHSwpTfKkHJUSU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>422231037721</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.JonMiller.PhotoApp</string>
+	<key>PROJECT_ID</key>
+	<string>photoapp-3f460</string>
+	<key>STORAGE_BUCKET</key>
+	<string>photoapp-3f460.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:422231037721:ios:004c8938728185e713d788</string>
+	<key>DATABASE_URL</key>
+	<string>https://photoapp-3f460.firebaseio.com</string>
+</dict>
+</plist>
